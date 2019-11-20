@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<lista>
+<product>
+<name>pera</name>
+<descripcion>las peras son verdes y suaves.</descripcion>
+<precio>10.00</precio>
+<cantidad>500</cantidad>
+</product>
+<product>
+<name>manzana</name>
+<descripcion>las manzanas son rojas y duras.</descripcion>
+<precio>9.50</precio>
+<cantidad>350</cantidad>
+</product>
+</lista>
